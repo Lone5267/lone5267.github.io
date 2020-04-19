@@ -1,9 +1,19 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Sheffield
+  dates: Sept 2019 - Present
+  qualification: MSc Computer Science With Speech and Language Processing
   quote: >
-    Short institution or course description (optional)
+    We're a member of the Russell Group of leading UK research universities. Our outstanding performance for excellent teaching and research, as part of a genuinely global community, is consistently confirmed by international independent assessments.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I am studying at the University of Sheffield. Its really tough time because of the COVID-19 pandemic :).
+
+- layout: left
+  name: Zhengzhou University
+  dates: Sept 2013 – Jul 2017
+  qualification: BE Software Engineering
+  quote: >
+    National “211 Project” Key University and the territory’s best institute of higher learning. An internationally recognized, comprehensive university.
+  description: | # this will include new lines to allow paragraphs
+    During my time at Zhengzhou University, I learnt most of my key skills that have I have taken through my study such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy study life balance.
+    Also, I got a one-year internship experience in Deep Learning area because of the school-enterprise joint project.

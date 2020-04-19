@@ -1,10 +1,32 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company:  H3C Technologies Co., Limited
+  link: http://www.h3c.com/en/
+  job_title: Java Backend RD Engineering in Big Data Product Line Department
+  dates: July 30, 2017-July 10, 2019
   quote: >
-   Short description of the company (optional)
+    H3C offers a full portfolio of Digital Infrastructure products, spanning across compute, storage, networking, security and related domains, and provide a comprehensive one-stop digital platform that includes cloud computing, big data, interconnectivity, information security, new safety, Internet of Things (IoT), edge computing, artificial intelligence (AI) and 5G solutions, as well as end-to-end technical services.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    1.Responsible for large-scale data processing and online service system development;
+
+    2.Cooperate with web client to develop related background system and API service;
+
+    3.Responsible for the development of the middle ware in task scheduling.
+
+
+- layout: left
+  company: cData Nanjing Innovation Data Technology Inc (internship)
+  job_title: Assistant in Deep Learning Group
+  dates: July 21, 2016 - May 02, 2017
+  quote: >
+    cData is a high-tech enterprise engaged in the research, development and production of cloud computing and cloud storage products.  “Achieve wonders working with the smart people”, our corporate culture fostered a strong, collaborative and efficient R&D team.
+  description: | # this will include new lines to allow paragraphs
+    1.Training collation of data set;
+
+    2.Using tensorflow to predict PM 2.5;
+
+    3.Using ffmpeg to process videos;
+
+    4.Compilation of big data teaching materials;
+
+    5.GPU hardware and server device maintenance.

@@ -1,36 +1,37 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Lone5267/lone5267.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Ming Liu
+title: A postgraduate Student
+phone: +44 07873800701
+email: Mliu54@sheffield.ac.uk
+address: 212-H, UNINN BaileyStreet, 39 BaileyStreet, Sheffield, UK / No.101, Building 21, Haida Community,
+  Hefei City, Anhui Province, China
 
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+#twitter_username: jekyllrb
+github_username:  lone5267
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+facebook_username: nvpiao
+#flickr_username: jekyll
+instagram_username: nvpiao
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -43,15 +44,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/myself_crop.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name's Ming Liu and I'm a postgraduate student at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs "Department of Computer Science"), the [University of Sheffiled](https://www.sheffield.ac.uk/ "University of Sheffiled").
+    My major is Computer Science With Speech and Language Processing. I am now really interesting in Natural Language Processing (NLP) and machine learning.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+    Additionally, I Completed my BSa [Software Engineering](http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=12&spid=4&detail=615 "Software Engineering"), [Zhengzhou University](http://international.zzu.edu.cn/en/index "Zhengzhou University").
+    After graudation, I worked for two years as a Backend development engineer.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -65,16 +64,35 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  May 2014 Gold Medal Award in 2014 ACM-ICPC China Henan Provincial Programming Contest
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Nov. 2014.2015.2016 Third Scholarship Award for Excellent Student in Zhengzhou University
+
+  Dec. 2014 Second Prize in The 8th ACM College Student Programming Competition of Zhengzhou University
+
+  May 2015 Sliver Medal Award in 2015 ACM-ICPC China Henan Provincial Programming Contest
+
+  Dec. 2015 Grand Prize in The Third Software Test Skill Competition in Henan Province
+
+  Dec. 2015 First Prize in Zhengzhou University Social Venture Competition
+
+  ---------------------------------------------------------------------------------------------------------
+
+  Sports: Physical fitness helps to shape body figure, keep fit and healthy so that I can deal with heavy
+  workload and accompanying pressure effectively
+
+  · Familiar with Java language and Web development frameworks such as Spring Boot, Mybatis and Tomcat
+
+  · Familiar with Python language and Deep Learning frameworks such as pytorch
+
+  · Familiar with database concepts and technologies, MySQL, PostgreSQL and No-SQL/HBase
 
 # Footer
 footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: Lone5267/lone5267.github.io # (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
