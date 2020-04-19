@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ming Liu and I'm a postgraduate student at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs "Department of Computer Science"), the [University of Sheffiled](https://www.sheffield.ac.uk/ "University of Sheffiled").
     My major is Computer Science With Speech and Language Processing. I am now really interesting in Natural Language Processing (NLP) and machine learning.
 
-    Additionally, I Completed my BSa [Software Engineering](http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=12&spid=4&detail=615 "Software Engineering"), [Zhengzhou University](http://international.zzu.edu.cn/en/index "Zhengzhou University").
+    Additionally, I Completed my BEng [Software Engineering](http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=12&spid=4&detail=615 "Software Engineering"), [Zhengzhou University](http://international.zzu.edu.cn/en/index "Zhengzhou University").
     After graudation, I worked for two years as a Backend development engineer.
 
 # Projects Section
@@ -83,7 +83,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   · Familiar with Java language and Web development frameworks such as Spring Boot, Mybatis and Tomcat
 
-  · Familiar with Python language and Deep Learning frameworks such as pytorch
+  · Familiar with Python language and Deep Learning frameworks such as PyTorch
 
   · Familiar with database concepts and technologies, MySQL, PostgreSQL and No-SQL/HBase
 
