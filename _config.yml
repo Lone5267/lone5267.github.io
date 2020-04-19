@@ -1,35 +1,40 @@
 # Site
-repository: sproogen/resume-theme
+repository: Lone5267/lone5267.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ming Liu
+title: A postgraduate Student
+#mobile: +44 07873800701 / +86 13015503626
+email: Mliu54@sheffield.ac.uk
+website: www.github.com/lone5267
+#address: 212-H, UNINN BaileyStreet, 39 BaileyStreet, Sheffield, UK / No.101, Building 21, Haida Community,
+#  Hefei City, Anhui Province, China
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username:
+github_username:  lone5267
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: nvpiao
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: nvpiao
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myself_crop.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ming Liu and I'm a postgraduate at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs    "Department of Computer Science"), the [University of Sheffiled](https://www.sheffield.ac.uk/ "University of Sheffield").
+  My major is Computer Science With Speech and Language Processing. I am now really interested in Natural Language Processing (NLP) and machine learning.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Additionally, I Completed my BSc [Software Engineering](http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=12&spid=4&detail=615 "Software Engineering"), [ZHENGZHOU UNIVERSITY](http://international.zzu.edu.cn/en/index    "ZHENGZHOU UNIVERSITY").
+  After graduation, I worked for two years as a Backend development engineer.
 
 # Projects Section
-# projects_title: Projects
+projects_title: ""
 
 # Experience Section
 # experience_title: Experience
@@ -50,7 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: Lone5267/lone5267.github.io
 
 sass:
   sass_dir: _sass
@@ -58,3 +63,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+darkmode: false
